@@ -1,3 +1,3 @@
-module github.com/bvdenber/interpreter_in_go
+module monkey
 
 go 1.25.1
